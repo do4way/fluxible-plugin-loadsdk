@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/do4way/fluxible-plugin-loadsdk",
   "dependencies": {
-    "es6-promise": "^3.0.2",
-    "scriptjs": "^2.5.8"
+    "es6-promise": "^3.0.2"
   }
 }
