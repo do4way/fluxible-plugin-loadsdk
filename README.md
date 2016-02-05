@@ -8,7 +8,9 @@ napm install --save fluxible-plugin-loadsdk
 ## Usage
 
 ```
-app.plug({
+import loadSdkPlugin from 'fluxible-plugin-loadsdk'
+
+app.plug(loadSdkPlugin{
     gapi: {
         name: 'gapi',
         src: 'https://apis.google.com/js/client.js',
